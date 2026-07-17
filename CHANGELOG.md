@@ -29,6 +29,16 @@ section here, and uses the same content as the GitHub Release body.
 
 ## [Unreleased]
 
+## [v0.3.5] - 2026-07-17
+
+### Highlights
+
+This is a maintenance release that bumps the indirect mcp dependency from 1.27.0 to 1.28.1.
+
+### Docs
+
+- V0.3.4 [skip ci] (4444f97)
+
 ## [v0.3.4] - 2026-06-24
 
 ### Highlights
